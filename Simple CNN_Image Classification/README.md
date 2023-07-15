@@ -40,7 +40,7 @@ To run this project, ensure you have the following dependencies installed:
 ## Usage
 1. Clone or download the project repository.
 2. Install the necessary dependencies (see Installation section).
-3. Dataset can be downloaded from imageset folder attached.
+3. Dataset can be downloaded from (https://github.com/fastai/imagenette).
 4. Modify the hyperparameters and settings as desired in the configuration file.
 5. Run the main script `main.ipynb` to start the training process.
 6. Monitor the training progress and evaluate the model's performance.
